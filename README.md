@@ -112,6 +112,14 @@ Cabe a você avaliar qual é a melhor arquitetura e o melhor tipo de aprendizado
 
 Não tenha medo!!! Teste e compare diferentes combinações até chegar naquele que considera satisfatória para a solução de seu problema.
 
+----
+
+**Complemento:**
+
+Como complemento tem-se os arquivos *Redes neurais e calculo.pdf* e *rna_ex_perceptron.ipynb*.
+
+Os arquivos  foram desenvolvidos para apresentação do seminário final da disciplina de Análise do Programa de Pós-Graduação em Educação Matemática (Doutorado), cursada no ano de 2019.
+(http://www.rc.unesp.br/igce/pgem/new/arquivos/estruturacurricular/analise.pdf)
 
 
 
