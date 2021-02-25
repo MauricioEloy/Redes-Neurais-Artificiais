@@ -26,13 +26,15 @@ Assim, devemos portanto, entender o funcionamento de um simples neurônio bioló
 
 ## O Neurônio Biológico
 
-**imagem do neuronio**
+<p align="center">
+  <img src="https://sites.google.com/site/anatomiasistemanervosocentral/_/rsrc/1401651763408/home/neuronio/EWQEQWR.JPG" >
+  https://sites.google.com/site/anatomiasistemanervosocentral/_/rsrc/1401651763408/home/neuronio/EWQEQWR.JPG*
+</p>
+
 
 O sistema nervoso, do qual o nosso cérebro faz parte, é um conjunto complexo de células interligadas chamadas de neurônios. O neurônio é a unidade fundamental que compõe este sistema fascinante, tal estrutura pode ser vista como um processo em três estágios, indo da recepção de um estímulo até a resposta produzida após a computação do mesmo.
 
-Os neurônios individuais podem ser estimulados eletricamente, quimicamente ou mesmo opticamente, permitindo que os relacionamentos neurais de entrada-saída sejam mapeados. Uma representação simples deste funcionamento pode ser visto no diagrama abaixo.
-
-**inserir diagrama**
+Os neurônios individuais podem ser estimulados eletricamente, quimicamente ou mesmo opticamente, permitindo que os relacionamentos neurais de entrada-saída sejam mapeados. 
 
 **Quando um neurônio é ativado?**
 
@@ -50,26 +52,26 @@ Um breve histórico das redes neurais e inteligência artificial deve iniciar co
 
 Com base neste artigo, muitos outros pesquisadores e entusiastas puderam ser indagados e influenciados, uma retrospectiva cronológica pode ser vista abaixo:
 
-1943 – McCulloch e Pitts
-1948 – Wiener
-1949 – Hebb
-1952 – Ashby
-1954 – Minsky
-1954 – Gabor
-1955 – Von Neumann
-1956 – Taylor
-1958 – Rosenblatt
-1969 – Minsky e Papert
-Década de 70 – “Dark Age” (1974 – Werbos)
-1982 – Hopfield
-1986 – Rumelhart, Hinton e Williams
-1995 – Vapnik e co-autores
-2006 – Hinton e Ruslan Salakhutdinov
-2015/2016 – DeepFace/AlphaGo
-2017 – adoção em massa do Deep Learning
-.
-.
-.
+* 1943 – McCulloch e Pitts
+* 1948 – Wiener
+* 1949 – Hebb
+* 1952 – Ashby
+* 1954 – Minsky
+* 1954 – Gabor
+* 1955 – Von Neumann
+* 1956 – Taylor
+* 1958 – Rosenblatt
+* 1969 – Minsky e Papert
+* Década de 70 – “Dark Age” (1974 – Werbos)
+* 1982 – Hopfield
+* 1986 – Rumelhart, Hinton e Williams
+* 1995 – Vapnik e co-autores
+* 2006 – Hinton e Ruslan Salakhutdinov
+* 2015/2016 – DeepFace/AlphaGo
+* 2017 – adoção em massa do Deep Learning
+* 
+* 
+* 
 
 
 -----
