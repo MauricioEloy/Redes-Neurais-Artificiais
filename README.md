@@ -28,7 +28,7 @@ Assim, devemos portanto, entender o funcionamento de um simples neurônio bioló
 
 <p align="center">
   <img src="https://sites.google.com/site/anatomiasistemanervosocentral/_/rsrc/1401651763408/home/neuronio/EWQEQWR.JPG" >
-  https://sites.google.com/site/anatomiasistemanervosocentral/_/rsrc/1401651763408/home/neuronio/EWQEQWR.JPG*
+  https://sites.google.com/site/anatomiasistemanervosocentral/_/rsrc/1401651763408/home/neuronio/EWQEQWR.JPG
 </p>
 
 
